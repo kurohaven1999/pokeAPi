@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pokeAPi</string>
+    <string name="tipo">Tipo 2: Sin tipo</string>
+    <string name="pokedex">Pokedex</string>
+</resources>
